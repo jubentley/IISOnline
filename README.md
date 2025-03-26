@@ -1,16 +1,17 @@
 # IISOnline
 
-Version: 1.0
+Version: 1.0<br>
 Author: Justin Bentley – 2024
 
-IISOnline is a lightweight, real-time console utility for monitoring IIS site states and active worker processes. It's built with performance in mind and is designed for sysadmins, devops engineers, and .NET developers running on Windows.
+IISOnline is a lightweight, real-time console utility for monitoring IIS site states and active worker processes. It's built with performance in mind and is designed for sysadmins, devops engineers, and .NET developers that use IIS running on Windows.
+
 
 
 <img src="https://fs.jbn.ai/fs/host/iiso/capture556a.jpg" alt="IISOnline Demo" width="50%" />
 
-[![IISOnline Demo](https://fs.jbn.ai/fs/host/iiso/capture556a.jpg)]
-
-[![IISOnline Demo](https://img.youtube.com/vi/IMKjcB8L6J0/0.jpg)](https://www.youtube.com/watch?v=IMKjcB8L6J0)
+<a href="https://www.youtube.com/watch?v=IMKjcB8L6J0">
+    <img src="https://fs.jbn.ai/fs/jbnai/images/youtube-logo-og-2.png" style="width: 33%;" alt="Youtube Link">
+</a>
 
 
 ## 🚀 Features
