@@ -5,7 +5,7 @@ Author: Justin Bentley – 2024
 
 IISOnline is a lightweight, real-time console utility for monitoring IIS site states and active worker processes. It's built with performance in mind and is designed for sysadmins, devops engineers, and .NET developers running on Windows.
 
-# 🚀 Features
+## 🚀 Features
 
     View live status of all IIS websites (Started/Stopped).
 
@@ -27,7 +27,7 @@ IISOnline is a lightweight, real-time console utility for monitoring IIS site st
 
     Full error handling with guidance for missing IIS services or permissions.
 
-# 🖥️ Requirements
+## 🖥️ Requirements
 
     Windows Server or Desktop with IIS (Internet Information Services) installed
 
@@ -35,7 +35,7 @@ IISOnline is a lightweight, real-time console utility for monitoring IIS site st
 
     Run as Administrator (required for IIS + WMI access)
 
-# 🛠️ Usage
+## 🛠️ Usage
 Launch from Command Line:
 
 dotnet run
@@ -46,7 +46,7 @@ Any Key	Refresh view
 R	Reload IIS sites list
 A	Auto-refresh (every 5 seconds)
 ESC / Q	Quit the application
-# 🔍 Example Output
+## 🔍 Example Output
 
 IISOnline v1.0 2024
 
@@ -59,7 +59,7 @@ IISOnline v1.0 2024
 
    ** Any key to rescan, 'ESC' to kill, 'R' to refresh IIS, 'A' for Auto **
 
-# 🧠 How It Works
+## 🧠 How It Works
 
     Uses Microsoft.Web.Administration to query IIS site states.
 
@@ -69,7 +69,7 @@ IISOnline v1.0 2024
 
     Monitors system memory via Win32_OperatingSystem.
 
-# ❌ Troubleshooting
+## ❌ Troubleshooting
 Error	Solution
 Insufficient Privileges	Run as Administrator
 COM Exception	IIS is not installed properly
@@ -83,7 +83,7 @@ WMI Error	WMI or permissions issue on server
 
     Does not persist or transmit any data.
 
-# 📁 Structure Overview
+## 📁 Structure Overview
 Component	Purpose
 QueryIIS()	Loads sites from IIS
 QueryProcesses()	Maps IIS apps to running processes
