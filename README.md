@@ -10,7 +10,7 @@ IISOnline is a lightweight, real-time console utility for monitoring IIS site st
 <img src="https://fs.jbn.ai/fs/host/iiso/capture556a.jpg" alt="IISOnline Demo" />
 
 <a href="https://www.youtube.com/watch?v=IMKjcB8L6J0">
-    <img src="https://fs.jbn.ai/fs/jbnai/images/youtube-logo-og-2.png" alt="Youtube Link">
+    <img src="https://fs.jbn.ai/fs/jbnai/images/youtube-logo-og-2.png" width="30%" alt="Youtube Link">
 </a>
 
 
